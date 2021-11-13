@@ -1,7 +1,6 @@
 package lesson1;
 
 public class FirstGitWork {
-    public static  void main(String ... args) {
-        System.out.println("Hello Word!!!");
-    }
+    Promegutoct promegutoct1=new Promegutoct();
+    Promegutoct promegutoct2=new Promegutoct();
 }
